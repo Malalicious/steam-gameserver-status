@@ -17,6 +17,6 @@ After you've added your gameservers to WordPress you will find shortcodes behind
 
 # Credits
 * PHP-Source-Query
-... Steam Gameserver Status relies on the library provided by xPaw, check it out here: [https://github.com/xPaw/PHP-Source-Query/](https://github.com/xPaw/PHP-Source-Query/)
+  Steam Gameserver Status relies on the library provided by xPaw, check it out here: [https://github.com/xPaw/PHP-Source-Query/](https://github.com/xPaw/PHP-Source-Query/)
 * Chartist
-... For graphs we used Chartist which is an amazing and easy-to-use library to generate charts. Check it out here:  [https://gionkunz.github.io/chartist-js/](https://gionkunz.github.io/chartist-js/)
+  For graphs we used Chartist which is an amazing and easy-to-use library to generate charts. Check it out here:  [https://gionkunz.github.io/chartist-js/](https://gionkunz.github.io/chartist-js/)
