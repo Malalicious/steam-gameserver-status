@@ -16,7 +16,7 @@ Out of the box, Steam Gameserver Status comes with a bunch of configuration opti
 After you've added your gameservers to WordPress you will find shortcodes behind every gameserver under "Gameservers". Make sure you have enabled all the gameservers you wish to use and display on your blog. Simply copy the shortcode and paste it on a page or inside a post to display the gameserver's status. To add a gameserver to your sidebars, simply go to widgets and add it to your sidebar.
 
 # Credits
-..* PHP-Source-Query
+* PHP-Source-Query
 ... Steam Gameserver Status relies on the library provided by xPaw, check it out here: [https://github.com/xPaw/PHP-Source-Query/](https://github.com/xPaw/PHP-Source-Query/)
-..* Chartist
+* Chartist
 ... For graphs we used Chartist which is an amazing and easy-to-use library to generate charts. Check it out here:  [https://gionkunz.github.io/chartist-js/](https://gionkunz.github.io/chartist-js/)
